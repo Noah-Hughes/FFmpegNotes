@@ -14,3 +14,7 @@ ffmpeg -y -hwaccel cuda -i input.file output.file
 Flaten out video v360
 ffmpeg.exe -hwaccel cuda  -i input.mp4 -vf v360=e:flat e-flat.mp4
 
+3x2 cube with yaw -90 reorderd cube
+
+Upscaling
+
